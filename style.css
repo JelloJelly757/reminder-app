@@ -1,0 +1,15 @@
+.box {
+    border: 4px solid; 
+    border-color: black; 
+    border-radius: 10px;
+    width: 300px; 
+    height: 300px; 
+}
+
+.firstrow {
+    display: flex; 
+}
+
+.inbut {
+    display: flex; 
+}
