@@ -8,8 +8,15 @@
 
 .firstrow {
     display: flex; 
+    padding-top: 15px; 
+    padding-bottom: 10px; 
 }
 
 .inbut {
     display: flex; 
+}
+
+button {
+    margin-left: 20px; 
+    margin-right:20px; 
 }
